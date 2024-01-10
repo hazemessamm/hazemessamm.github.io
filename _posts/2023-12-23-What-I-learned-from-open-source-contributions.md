@@ -18,6 +18,5 @@ What I learned:
     1. If you do not have ideas in your mind to add to a specific library you want to contribute to, filter the issues by labels like `contributions-welcome` or something similar. This will help you find open issues that welcome contributions.
     2. If you don't find any relevant labels in the issues, check the repository for a file called `CONTRIBUTING.md`. This file might contain links to files that list missing features you can work on.
     3. You can also look for pinned issues, which may also contain missing features.
-* Don't hesitate to open PRs with your contributions - the benefits vastly outweigh any potential drawbacks.
 * Follow the guidelines, naming conventions, and add unit tests to your implementation. The code review process will reveal any areas for improvement, so don't worry about perfection right now. You'll learn a lot from the feedback you receive.
 * You will gain both confidence and valuable insights from others who review your code.
