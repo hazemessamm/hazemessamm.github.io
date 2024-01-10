@@ -19,4 +19,4 @@ What I learned:
     2. If you don't find any relevant labels in the issues, check the repository for a file called `CONTRIBUTING.md`. This file might contain links to files that list missing features you can work on.
     3. You can also look for pinned issues, which may also contain missing features.
 * Don't hesitate to open PRs with your contributions - the benefits vastly outweigh any potential drawbacks.
-* You will gain confidence and you will learn a lot from other folks who review your code.
+* You will gain both confidence and valuable insights from others who review your code.
