@@ -20,5 +20,5 @@ What I learned:
     3. You can also look for pinned issues, which may also contain missing features.
     4. Keep an eye on latest tools/ideas that could be part of the tool you want to contribute to. (I found a PR in MLX that integerates GGUF into MLX.)
 * Follow the guidelines, naming conventions, and add unit tests to your implementation. The code review process will reveal any areas for improvement, so don't worry about perfection right now. You'll learn a lot from the feedback you receive.
-* You will get to know more about the tool that you are contributing to, you will gain insights about it's design, limitations, etc... and these insights might help you in generating more ideas that can help you in making more contributions or will help you if you are using this tool at your work.
-* Code review process will teach you a lot, you talk to nice folks who are experts in your field and you will learn from them how to do code review properly, cool tricks, what to care about in implementation and so on.
+* You'll gain deeper insights into the tool you're contributing to, including its design and limitations. These insights can help you generate new ideas for further contributions or enhance your usage of the tool in your work.
+* Code review process will teach you a lot: you will talk to nice folks who are experts in your field, you will learn from them how to do code review properly, cool tricks, what to care about in implementation and so on.
