@@ -22,3 +22,4 @@ What I learned:
 * Follow the guidelines, naming conventions, and add unit tests to your implementation. The code review process will reveal any areas for improvement, so don't worry about perfection right now. You'll learn a lot from the feedback you receive.
 * You'll gain deeper insights into the tool you're contributing to, including its design and limitations. These insights can help you generate new ideas for further contributions or enhance your usage of the tool in your work.
 * Code review process will teach you a lot: you will talk to nice folks who are experts in your field, you will learn from them how to do code review properly, cool tricks, what to care about in implementation and so on.
+* Sharing your contributions might help you to get to know folks and work with them on interesting projects.
