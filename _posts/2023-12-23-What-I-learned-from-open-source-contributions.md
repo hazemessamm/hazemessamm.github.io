@@ -11,6 +11,7 @@ categories: misc
 5. Added ALiBi positional encoding in [MLX](https://github.com/ml-explore/mlx/blob/main/python/mlx/nn/layers/positional_encoding.py#L176)
 6. Added Scaling configuration in RoPE in [MLX](https://github.com/ml-explore/mlx/blob/main/python/mlx/nn/layers/positional_encoding.py#L42)
 7. Added GLU activation function in [MLX](https://github.com/ml-explore/mlx/blob/main/python/mlx/nn/layers/activations.py#L166)
+8. Added Adafactor optimizer to [MLX](https://github.com/ml-explore/mlx/blob/main/python/mlx/optimizers.py#L506)
 
 What I learned:
 
@@ -23,3 +24,4 @@ What I learned:
 * You'll gain deeper insights into the tool you're contributing to, including its design and limitations. These insights can help you generate new ideas for further contributions or enhance your usage of the tool in your work.
 * Code review process will teach you a lot: you will talk to nice folks who are experts in your field, you will learn from them how to do code review properly, cool tricks, what to care about in implementation and so on.
 * Sharing your contributions might help you to get to know folks and work with them on interesting projects.
+* If you are studying something, let's say you are studying a specific layer or optimizer and you want to implement it, you can search in your favorite library whether its implemented or not, if not you can submit a PR with your implementation, that's what I did with Adafactor optimizer, I was studying it and to make sure that I understood it, I implemented it using MLX.
